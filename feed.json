@@ -9,5 +9,20 @@
         "name": "Gabriel"
     },
     "items": [
+        {
+            "id": "https://publii.cento.red/post/",
+            "url": "https://publii.cento.red/post/",
+            "title": "Post",
+            "summary": "Great",
+            "content_html": "<p>Great</p>",
+            "image": "https://publii.cento.red/media/posts/3/500px-Dreilaendereck_Bgld_Stmk_NOE_3.jpg",
+            "author": {
+                "name": "Gabriel"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-21T13:07:28+01:00",
+            "date_modified": "2025-11-21T13:07:28+01:00"
+        }
     ]
 }

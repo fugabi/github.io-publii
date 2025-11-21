@@ -3,10 +3,33 @@
     <title>Playground</title>
     <link href="https://publii.cento.red/feed.xml" rel="self" />
     <link href="https://publii.cento.red" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-11-21T13:07:28+01:00</updated>
     <author>
         <name>Gabriel</name>
     </author>
     <id>https://publii.cento.red</id>
 
+    <entry>
+        <title>Post</title>
+        <author>
+            <name>Gabriel</name>
+        </author>
+        <link href="https://publii.cento.red/post/"/>
+        <id>https://publii.cento.red/post/</id>
+        <media:content url="https://publii.cento.red/media/posts/3/500px-Dreilaendereck_Bgld_Stmk_NOE_3.jpg" medium="image" />
+
+        <updated>2025-11-21T13:07:28+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://publii.cento.red/media/posts/3/500px-Dreilaendereck_Bgld_Stmk_NOE_3.jpg" alt="" />
+                    Great
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://publii.cento.red/media/posts/3/500px-Dreilaendereck_Bgld_Stmk_NOE_3.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Great</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
